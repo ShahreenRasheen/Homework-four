@@ -1,0 +1,278 @@
+/* All Common CSS Start/ */
+*{
+    margin: 0;
+    padding: 0;
+}
+ /* all common CSS End  */
+ .base {
+    height: 500px;
+    width: 1050px;
+    background-color: beige;
+    margin: 0 auto;
+    position: relative;
+ }
+.srilanka {
+    height: 100px;
+    width: 200px;
+    background-color: #ffbe29;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.srilanka2 {
+    height: 90px;
+    width: 15px;
+    background-color: #00534e;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+.srilanka3 {
+    height: 90px;
+    width: 15px;
+    background-color: #eb7400;
+    position: absolute;
+    top: 5px;
+    left: 20px;
+}
+.srilanka4 {
+    height: 90px;
+    width: 150px;
+    background-color: #8d153a;
+    position: absolute;
+    top: 5px;
+    left: 43px;
+}
+.srilanka5 {
+    position: absolute;
+    top: 5px;
+    left: 60px;
+}
+.russia {
+    height: 100px;
+    width: 200px;
+    background-color: #fff;
+    position: absolute;
+    top: 50px;
+    left: 300px;
+}
+.russia2 {
+    height: 33px;
+    width: 200px;
+    background-color: white;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.russia3 {
+    height: 33px;
+    width: 200px;
+    background-color: #0036a7;
+    position: absolute;
+    top: 33px;
+    left: 0px;
+}
+.russia4 {
+    height: 33px;
+    width: 200px;
+    background-color: #d62718;
+    position: absolute;
+    top: 66px;
+    left: 0px;
+}
+.china {
+    height: 100px;
+    width: 200px;
+    background-color: #de2910;
+    position: absolute;
+    top: 50px;
+    left: 550px;
+}
+.china2 {
+    height: 30px;
+    width: 30px;
+    background-color: yellow;
+    clip-path: polygon(50% 0%, 63% 38%, 100% 38%, 69% 59%, 82% 100%, 50% 75%, 18% 100%, 31% 59%, 0% 38%, 37% 38%);
+    top: 10px;
+    left: 10px;
+    position: absolute;
+}
+.china3 {
+    height: 10px;
+    width: 10px;
+    background-color: yellow;
+    clip-path: polygon(50% 0%, 63% 38%, 100% 38%, 69% 59%, 82% 100%, 50% 75%, 18% 100%, 31% 59%, 0% 38%, 37% 38%);
+    top: 5px;
+    left: 50px;
+    position: absolute;
+}
+.china4 {
+    height: 10px;
+    width: 10px;
+    background-color: yellow;
+    clip-path: polygon(50% 0%, 63% 38%, 100% 38%, 69% 59%, 82% 100%, 50% 75%, 18% 100%, 31% 59%, 0% 38%, 37% 38%);
+    top: 20px;
+    left: 60px;
+    position: absolute;
+}
+.china5 {
+    height: 10px;
+    width: 10px;
+    background-color: yellow;
+    clip-path: polygon(50% 0%, 63% 38%, 100% 38%, 69% 59%, 82% 100%, 50% 75%, 18% 100%, 31% 59%, 0% 38%, 37% 38%);
+    top: 37px;
+    left: 60px;
+    position: absolute;
+}
+.china6 {
+    height: 10px;
+    width: 10px;
+    background-color: yellow;
+    clip-path: polygon(50% 0%, 63% 38%, 100% 38%, 69% 59%, 82% 100%, 50% 75%, 18% 100%, 31% 59%, 0% 38%, 37% 38%);
+    top: 50px;
+    left: 50px;
+    position: absolute;
+}
+.switzerland {
+    height: 100px;
+    width: 120px;
+    background-color: #ff0000;
+    position: absolute;
+    top: 50px;
+    left: 800px;
+}
+.switzerland2 {
+    height: 75px;
+    width: 75px;
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    clip-path: polygon(35% 0%, 65% 0%, 65% 35%, 100% 35%, 100% 65%, 65% 65%, 65% 100%, 35% 100%, 35% 65%, 0% 65%, 0% 35%, 35% 35%);
+}
+.laos {
+    height: 100px;
+    width: 200px;
+    background-color: #ce1126;
+    position: absolute;
+    top: 200px;
+    left: 50px;
+}
+.laos2 {
+    height: 50px;
+    width: 200px;
+    background-color: #002868 ;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+}
+.laos3 {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.panama {
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}
+.panama2 {
+    height: 50px;
+    width: 100px;
+    background-color: #da121a;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.panama3 {
+    height: 50px;
+    width: 100px;
+    background-color: #072357;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+.panama4 {
+    height: 35px;
+    width: 35px;
+    background-color: #072357;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.panama5 {
+    height: 35px;
+    width: 35px;
+    background-color: #da121a;
+    position: absolute;
+    bottom: 7px;
+    right: 30px;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.palestine {
+    height: 100px;
+    width: 200px;
+    background-color: #fff;
+    position: absolute;
+    top: 200px;
+    left: 550px;
+}
+.palestine2 {
+    height: 33px;
+    width: 200px;
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.palestine3 {
+    height: 33px;
+    width: 200px;
+    background-color: #007a3d;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+.palestine4 {
+    height: 100px;
+    width: 60px;
+    background-color: #ce1126;
+    clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.brazil {
+    height: 100px;
+    width: 150px;
+    background-color: #009c3b;
+    position: absolute;
+    top: 200px;
+    left: 800px;
+}
+.brazil2 {
+    height: 80px;
+    width: 120px;
+    background-color: #ffdf00;
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.brazil3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
